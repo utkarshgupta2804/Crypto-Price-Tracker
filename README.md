@@ -14,10 +14,13 @@ CryptoTracker is a sleek and intuitive cryptocurrency monitoring platform built 
 ## 🖼️ Screenshots
 
 ### Dashboard View
-![Dashboard]("C:\Users\utkarsh\OneDrive\Pictures\Screenshots 1\2025-04-25 (3).png")
+ <img width="923" alt="2025-04-25 (2)" src="https://github.com/user-attachments/assets/f87e0d1f-142a-44f2-a741-25a410bffd15" />
+
 
 ### Individual Crypto Analytics
-![Detailed View]("C:\Users\utkarsh\OneDrive\Pictures\Screenshots 1\2025-04-25 (2).png")
+<img width="930" alt="2025-04-25 (4)" src="https://github.com/user-attachments/assets/67b0f317-5724-4e29-a987-1d248fa1372d" />
+
+
 
 ## 🪄 Tech Stack
 
