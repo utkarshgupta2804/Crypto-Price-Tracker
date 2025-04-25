@@ -44,9 +44,9 @@ const PriceChart = ({ data, timeframe }) => {
     const maxValue = Math.max(...filteredData)
     const range = maxValue - minValue
 
-    // Set chart styles based on theme
-    const gridColor = theme === "dark" ? "rgba(255, 255, 255, 0.1)" : "rgba(0, 0, 0, 0.1)"
-    const textColor = theme === "dark" ? "rgba(255, 255, 255, 0.7)" : "rgba(0, 0, 0, 0.7)"
+    // Set chart styles for light mode
+    const gridColor = "rgba(0, 0, 0, 0.1)"
+    const textColor = "rgba(0, 0, 0, 0.7)"
 
     // Draw grid lines
     ctx.beginPath()

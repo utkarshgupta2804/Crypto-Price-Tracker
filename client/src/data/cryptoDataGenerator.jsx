@@ -34,7 +34,7 @@ const cryptoList = [
     { name: "Internet Computer", symbol: "ICP", logo: "https://s2.coinmarketcap.com/static/img/coins/64x64/8916.png" },
     // Add more cryptocurrencies to reach 120+
     { name: "EOS", symbol: "EOS", logo: "https://s2.coinmarketcap.com/static/img/coins/64x64/1765.png" },
-    { name: "Theta Network\", symbol: \"THETA\", logo: \"https://s2.coinmarketcap."  },
+    { name: "Theta Network", symbol: "THETA", logo: "https://s2.coinmarketcap."  },
     { name: "Theta Network", symbol: "THETA", logo: "https://s2.coinmarketcap.com/static/img/coins/64x64/2416.png" },
     { name: "Tezos", symbol: "XTZ", logo: "https://s2.coinmarketcap.com/static/img/coins/64x64/2011.png" },
     { name: "The Graph", symbol: "GRT", logo: "https://s2.coinmarketcap.com/static/img/coins/64x64/6719.png" },

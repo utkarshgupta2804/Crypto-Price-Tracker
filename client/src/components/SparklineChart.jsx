@@ -47,7 +47,7 @@ const SparklineChart = ({ data, change }) => {
     ctx.lineTo(width, height)
     ctx.lineTo(0, height)
     ctx.closePath()
-    ctx.fillStyle = `$color20` // 20% opacity
+    ctx.fillStyle = `${color}20` // 20% opacity
     ctx.fill()
   }, [data, color, theme]) // Re-render when theme changes
 

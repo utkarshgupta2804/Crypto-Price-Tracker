@@ -100,7 +100,7 @@ export const selectFilteredAssets = createSelector(
   (assets, searchTerm, activeFilter) => {
     // First filter by search term
     let filteredAssets = assets
-    if (searchTerm) {
+    if (searchTerm && searchTerm.length > 0) {
       const term = searchTerm.toLowerCase()
       filteredAssets = assets.filter(
         (asset) => asset.name.toLowerCase().includes(term) || asset.symbol.toLowerCase().includes(term),
