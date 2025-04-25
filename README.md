@@ -1,7 +1,5 @@
 # CryptoTracker
 
-![CryptoTracker Logo](https://s2.coinmarketcap.com/static/cloud/img/coinmarketcap_white_1.svg)
-
 ## ✨ Overview
 CryptoTracker is a sleek and intuitive cryptocurrency monitoring platform built for enthusiasts, traders, and data nerds alike. With real-time updates, dynamic visualizations, and deep market insights, it offers a CoinMarketCap-like experience tailored with modern design and performance.
 
@@ -11,17 +9,15 @@ CryptoTracker is a sleek and intuitive cryptocurrency monitoring platform built 
 - **Robust Market Analytics**: View market cap, 24h volume, circulating supply, and performance changes (1h, 24h, 7d)
 - **Interactive Visualizations**: Synchronized sparkline and detailed charts per asset
 - **In-Depth Crypto Details**: Access granular statistics and metadata for each cryptocurrency
-- **Smart Search**: Filter and search assets with instant results
-- **Multi-Filter Modes**: Explore top movers, trending assets, or newly added coins
 - **Responsive & Fast**: Built to perform smoothly across devices and screen sizes
 
 ## 🖼️ Screenshots
 
 ### Dashboard View
-![Dashboard](https://via.placeholder.com/800x450?text=CryptoTracker+Dashboard)
+![Dashboard]("C:\Users\utkarsh\OneDrive\Pictures\Screenshots 1\2025-04-25 (3).png")
 
 ### Individual Crypto Analytics
-![Detailed View](https://via.placeholder.com/800x450?text=Detailed+Crypto+View)
+![Detailed View]("C:\Users\utkarsh\OneDrive\Pictures\Screenshots 1\2025-04-25 (2).png")
 
 ## 🪄 Tech Stack
 
@@ -48,10 +44,6 @@ Then open [http://localhost:3000](http://localhost:5173) in your browser.
 ### Explore the Dashboard
 - Monitor live prices and key metrics for over 120 cryptocurrencies
 - Click on any asset for detailed analytics
-
-### Search & Filter
-- Type in the search bar to quickly locate assets by name or symbol
-- Toggle between "Top", "Trending", and "New" categories
 
 ### Visual Insights
 - View sparkline price trends right in the dashboard
@@ -87,19 +79,6 @@ This app simulates market dynamics using pseudo-random updates:
 - [ ] **News Feed**: Real-time crypto news integration
 - [ ] **Authentication**: User accounts and saved preferences
 - [ ] **Mobile App**: Native support via React Native or Flutter
-
-## ✨ Contributing
-
-Pull requests are welcome! Here's how to contribute:
-
-```bash
-git fork https://github.com/yourusername/crypto-tracker.git
-git checkout -b feature/awesome-feature
-# Make your changes
-git commit -m "Add awesome feature"
-git push origin feature/awesome-feature
-# Then open a Pull Request on GitHub
-```
 
 ## 👏 Acknowledgments
 
